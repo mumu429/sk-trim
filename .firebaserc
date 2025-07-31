@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "sk-trim"
-  }
+    "default": "sk-trim",
+    "firebase init hosting:github": "sk-trim"
+  },
+  "targets": {},
+  "etags": {}
 }
